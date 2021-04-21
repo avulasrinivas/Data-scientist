@@ -1,1 +1,1 @@
-# Data-scientist
+# Azure devops, #ML, #Python, Data scienst
