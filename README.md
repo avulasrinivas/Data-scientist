@@ -1,1 +1,1 @@
-# Azure devops, #ML, #Python, Data scienst
+# Azure Database, azure factory,azure synapse, azure streaming analytics
